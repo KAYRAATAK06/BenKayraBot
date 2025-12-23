@@ -1,0 +1,8 @@
+{
+  "name": "BenKayraBot",
+  "description": "BenKayraBot - Gelişmiş yapay zeka sohbet ve görsel oluşturma asistanınız. Hem akıllı cevaplar alın hem de hayal gücünüzü gerçeğe dönüştürün.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
